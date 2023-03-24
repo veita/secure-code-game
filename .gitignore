@@ -30,13 +30,15 @@ dist/
 downloads/
 eggs/
 .eggs/
+bin/
 lib/
-lib64/
+lib64
 parts/
 sdist/
 var/
 wheels/
 share/python-wheels/
+pyvenv.cfg
 *.egg-info/
 .installed.cfg
 *.egg
